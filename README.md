@@ -1,0 +1,1 @@
+In crafting my LinkedIn profile, I employed HTML, CSS, JavaScript to create a dynamic and visually compelling representation of my profile and enhance user engagement.With a keen eye for design and functionality.
